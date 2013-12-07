@@ -1,0 +1,4 @@
+name: NoDrop
+main: me.te3.nodrop.NoDrop
+version: 0.1
+description: prevent creeper and ghast explosions from dropping blocks
